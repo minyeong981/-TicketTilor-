@@ -24,7 +24,7 @@
  - 화면 설계
  ![alt text](프로토타입.png)
 
- - url / 컴포넌트 구성
+ - url / 컴포넌트 구성  
  ![alt text](<Untitled (3).png>)
 
 ---
@@ -62,6 +62,7 @@
 
 
 <video controls src="구현5.mp4" title="Title"></video>
+
 <video controls src="구현11.mp4" title="Title"></video>
 
 ---
