@@ -19,13 +19,13 @@
     4.	유저간 소통 할 수 있는 커뮤니티
 
  - ERD
- ![alt text](<Untitled (2).png>)
+ ![alt text](<erd (2).png>)
 
  - 화면 설계
  ![alt text](프로토타입.png)
 
  - url / 컴포넌트 구성  
- ![alt text](<Untitled (3).png>)
+ ![alt text](<url.png>)
 
 ---
 
@@ -61,9 +61,11 @@
 
 
 
-<video controls src="구현5.mp4" title="Title"></video>
-
-<video controls src="구현11.mp4" title="Title"></video>
+<video controls>
+  <source src="구현5.mp4" type="video/mp4">
+  <source src="구현5.webm" type="video/webm">
+  <p>브라우저가 동영상을 지원하지 않습니다.</p>
+</video>
 
 ---
 **4. 느낀 점**
